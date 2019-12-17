@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Generador de Hamburguesas",
+  "name": "Generador de Hamburguesas",
   "icons": [
     {
       "src": "favicon.ico",
